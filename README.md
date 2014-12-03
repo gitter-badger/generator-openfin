@@ -1,4 +1,5 @@
 # generator-openfin
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/openfin/generator-openfin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://api.travis-ci.org/openfin/generator-openfin.svg?branch=master)](https://travis-ci.org/openfin/generator-openfin)
 
 A [Yeoman](http://yeoman.io) generator that scaffolds [OpenFin](http://openfin.co/index.html) applications.
